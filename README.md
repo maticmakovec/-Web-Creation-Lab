@@ -1,8 +1,15 @@
 🌐 Web Creation Lab
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Web%20Development-blue?style=for-the-badge" alt="Web Development"/>
-  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" alt="Learning"/>
+  <a href="https://github.com/explore">
+    <img src="https://img.shields.io/badge/Explore-GitHub-blue?style=for-the-badge&logo=github" alt="Explore GitHub"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/">
+    <img src="https://img.shields.io/badge/Learn-Web_Development-green?style=for-the-badge&logo=html5" alt="Learn Web Development"/>
+  </a>
+  <a href="https://github.com/topics/learning">
+    <img src="https://img.shields.io/badge/Status-Learning-purple?style=for-the-badge" alt="Learning Status"/>
+  </a>
 </p>
 
 <p align="center">
@@ -11,19 +18,25 @@
 
 ---
 
-## 📌 Navigation
+📌 Navigation
 
-[About Me](#-about-me) • [Project Goals](#-project-goals) • [What I'm Learning](#-what-im-learning) • [Fun Fact](#-fun-fact) • [Resources](#-useful-resources)
+<p align="center">
+  <a href="#-about-me">👋 About Me</a> •
+  <a href="#-project-goals">🎯 Project Goals</a> •
+  <a href="#-what-im-learning">📖 What I'm Learning</a> •
+  <a href="#-fun-fact">⚡ Fun Fact</a> •
+  <a href="#-useful-resources">🔗 Resources</a>
+</p>
 
 ---
 
 👋 About Me
 
-Hi! I'm a beginner interested in **web development**, modern technology, and creative digital experiences.
+Hi! I'm interested in **web development**, modern technology, and creative digital experiences.
 
 I enjoy exploring how websites are designed, built, and improved.
 
-🎯 Project Goals
+## 🎯 Project Goals
 
 - 🌐 Explore the basics of web development.
 - 🛠️ Learn how GitHub repositories work.
