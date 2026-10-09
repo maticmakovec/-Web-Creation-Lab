@@ -10,6 +10,13 @@
 </p>
 
 ---
+
+## 📌 Navigation
+
+[About Me](#-about-me) • [Project Goals](#-project-goals) • [What I'm Learning](#-what-im-learning) • [Fun Fact](#-fun-fact) • [Resources](#-useful-resources)
+
+---
+
 👋 About Me
 
 Hi! I'm a beginner interested in **web development**, modern technology, and creative digital experiences.
@@ -35,6 +42,19 @@ I enjoy exploring how websites are designed, built, and improved.
 ⚡ Fun Fact
 
 I enjoy discovering new ideas and finding creative ways to bring them to life.
+
+🔗 Useful Resources
+
+- [GitHub Docs](https://docs.github.com/en/get-started) — Learn how to use GitHub.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) — Explore web development.
+- [Visual Studio Code](https://code.visualstudio.com/) — Discover a popular code editor.
+
+🚀 My Next Steps
+
+- [x] Create my first GitHub repository.
+- [x] Write and improve my README.
+- [ ] Explore more web development tools.
+- [ ] Learn more about collaboration on GitHub.
 
 ---
 
