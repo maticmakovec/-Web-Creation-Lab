@@ -84,3 +84,4 @@ I enjoy discovering new ideas and finding creative ways to bring them to life.
 ## What I learned
 
 GitHub repositories keep project files and their history together, and Markdown makes documentation easy to read.
+Fun fact: I enjoy turning ideas into websites ⚡
