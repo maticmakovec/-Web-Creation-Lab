@@ -1,3 +1,7 @@
+## Welcome
+
+I'm Matic, and this is my space for exploring how websites are built.
+
 🌐 Web Creation Lab
 
 <p align="center">
