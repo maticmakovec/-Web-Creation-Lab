@@ -1,3 +1,16 @@
+## 📋 Oddaja naloge – Postani digitalni ustvarjalec
+| Del | Vsebina | Povezava |
+|---|---|---|
+| 1 | GitHub profil | [github.com/maticmakovec](https://github.com/maticmakovec) |
+| 1 | README profil (bonus) | [maticmakovec/maticmakovec](https://github.com/maticmakovec/maticmakovec) |
+| 2 | Prvi repozitorij | [-Web-Creation-Lab](https://github.com/maticmakovec/-Web-Creation-Lab) · [commiti](https://github.com/maticmakovec/-Web-Creation-Lab/commits/main) |
+| 3 | Raziskava: Visual Studio Code | [PDF](naloga/VSCode_raziskava.pdf) · [Word](naloga/VSCode_raziskava.docx) |
+| 4 | Predstavitev v Canvi | [Moj digitalni sled](https://canva.link/23ifwmo5tsljzn7) · [PDF](naloga/Moj_digitalni_sled.pdf) |
+| Bonus | GitHub Pages | [maticmakovec.github.io](https://maticmakovec.github.io) |
+| Bonus | Značke (badges) | v [README profilu](https://github.com/maticmakovec/maticmakovec) |
+
+---
+
 ## Welcome
 
 I'm Matic, and this is my space for exploring how websites are built.
